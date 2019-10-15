@@ -2,7 +2,7 @@
 
 IN5400 - Machine Learning for Image Analysis Spring 2019
 
-![mnist training](figures/mnist_progress.png=100x)
+![mnist training](figures/mnist_progress.png=100x100)
 
 
 ### Content of code
